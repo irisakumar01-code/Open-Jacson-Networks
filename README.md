@@ -15,13 +15,9 @@ Visual components and Python
 
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
-
-## Experiment:
-
-
-## Program
+## Program :
 
 
-## Output
+## Output :
 
-## Result
+## Result :
