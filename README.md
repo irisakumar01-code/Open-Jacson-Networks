@@ -56,10 +56,9 @@ else:
     print("Warning! Objects overflow will happen in the conveyor") 
 print("--------------------------------------------------------------")
 ~~~
-
 ## Output :
 ![img](june.png)
-
 ## Result :
  Series Queues with infinite capacity - Open Jackson Network executed successfully
+ 
  https://github.com/irisakumar01-code/Open-Jacson-Networks
