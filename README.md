@@ -16,7 +16,10 @@ Visual components and Python
 ![image](https://user-images.githubusercontent.com/103921593/203239789-bc870dce-6727-487b-a0e2-4fc3f5114889.png)
 
 ## Program :
+.
+
 ~~~
+
 arr_time=float(input("Enter the mean inter arrival time of objects from feeder (in secs):")) 
 ser_time1=float(input("Enter the mean inter service time of lathe machine 1 (in secs):")) 
 ser_time2=float(input("Enter the mean inter service time of lathe machine 2 (in secs):")) 
@@ -56,8 +59,12 @@ else:
     print("Warning! Objects overflow will happen in the conveyor") 
 print("--------------------------------------------------------------")
 ~~~
+
 ## Output :
+
 ![img](june.png)
+
 ## Result :
  Series Queues with infinite capacity - Open Jackson Network executed successfully
+ 
  https://github.com/irisakumar01-code/Open-Jacson-Networks
